@@ -6,4 +6,4 @@ Several causal analysis methods were implemented and compared:
 - Standardization,
 - Double robust.
 
-These methods were applied to yield time series covering all major producing regions in France using both linear regression models and machine learning models.
+These methods were applied to yield time series covering all major producing regions in France using both linear regression models and machine learning models. A code for performing Superposed Epoch Analysis on the data is also included. 
