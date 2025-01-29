@@ -5,4 +5,5 @@ Several causal analysis methods were implemented and compared:
 - Matching,
 - Standardization,
 - Double robust.
-These methods were implemented using both linear regression models and machine learning models.
+
+These methods were applied to yield time series covering all major producing regions in France using both linear regression models and machine learning models.
